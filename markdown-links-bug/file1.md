@@ -1,5 +1,12 @@
 # Section 1
 
+
+**This works :**
+[link to same file header without accents](#titre-sans-accents)
+
+**This works :**
+[link to  same file header with accents](#titre-avec-accents-é)
+
 ## Titre buffer
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis mollis mi in augue fringilla, et dapibus leo elementum. Donec vel est luctus nunc iaculis porttitor. In hac habitasse platea dictumst. Pellentesque tempus magna sit amet erat ornare, eget gravida elit semper. Etiam eget urna quis velit blandit dignissim vel nec nunc. Etiam lobortis, turpis vitae mattis pretium, arcu purus feugiat dui, id sodales leo nisl et ante. Curabitur ut sollicitudin ante. Vivamus egestas tempus eros, id accumsan eros. Quisque quis congue velit, ac tempor enim. Nullam feugiat, odio sit amet ultrices finibus, neque ligula fermentum mi, et fringilla nulla massa in velit. Aliquam erat volutpat. Quisque ac ultricies turpis. Duis ultricies tellus eu massa porta sagittis. Pellentesque gravida erat vel euismod commodo. Morbi nunc ligula, sodales quis dui in, varius ullamcorper est.
